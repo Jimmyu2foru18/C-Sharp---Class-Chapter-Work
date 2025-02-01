@@ -1,0 +1,20 @@
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Ch_6_Ecercises_6_2\obj\Debug\Ch_6_Ecercises_6_2.csproj.AssemblyReference.cache
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Ch_6_Ecercises_6_2\obj\Debug\Ch_6_Ecercises_6_2.Properties.Resources.resources
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Ch_6_Ecercises_6_2\obj\Debug\Ch_6_Ecercises_6_2.csproj.GenerateResource.cache
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Ch_6_Ecercises_6_2\obj\Debug\Ch_6_Ecercises_6_2.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Ch_6_Ecercises_6_2\bin\Debug\Ch_6_Ecercises_6_2.exe.config
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Ch_6_Ecercises_6_2\bin\Debug\Ch_6_Ecercises_6_2.exe
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Ch_6_Ecercises_6_2\bin\Debug\Ch_6_Ecercises_6_2.pdb
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Ch_6_Ecercises_6_2\obj\Debug\Ch_6_Ecercises_6_2.exe
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Ch_6_Ecercises_6_2\obj\Debug\Ch_6_Ecercises_6_2.pdb
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Ch_6_Ecercises_6_2\obj\Debug\Ch_6_Ecercises_6_2.Ch_6_Event_Registration.resources
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Ecercises_6_2\bin\Debug\Ch_6_Ecercises_6_2.exe.config
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Ecercises_6_2\bin\Debug\Ch_6_Ecercises_6_2.exe
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Ecercises_6_2\bin\Debug\Ch_6_Ecercises_6_2.pdb
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Ecercises_6_2\obj\Debug\Ch_6_Ecercises_6_2.csproj.AssemblyReference.cache
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Ecercises_6_2\obj\Debug\Ch_6_Ecercises_6_2.Ch_6_Event_Registration.resources
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Ecercises_6_2\obj\Debug\Ch_6_Ecercises_6_2.Properties.Resources.resources
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Ecercises_6_2\obj\Debug\Ch_6_Ecercises_6_2.csproj.GenerateResource.cache
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Ecercises_6_2\obj\Debug\Ch_6_Ecercises_6_2.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Ecercises_6_2\obj\Debug\Ch_6_Ecercises_6_2.exe
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Ecercises_6_2\obj\Debug\Ch_6_Ecercises_6_2.pdb

@@ -1,0 +1,22 @@
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Tutorial_2\obj\Debug\Ch_8_Tutorial_2.csproj.AssemblyReference.cache
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Tutorial_2\obj\Debug\Ch_8_Tutorial_2.Properties.Resources.resources
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Tutorial_2\obj\Debug\VendorLookupApp.MainForm.resources
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Tutorial_2\obj\Debug\Ch_8_Tutorial_2.csproj.GenerateResource.cache
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Tutorial_2\obj\Debug\Ch_8_Tutorial_2.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Tutorial_2\bin\Debug\Ch_8_Tutorial_2.exe.config
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Tutorial_2\bin\Debug\Ch_8_Tutorial_2.exe
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Tutorial_2\bin\Debug\Ch_8_Tutorial_2.pdb
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Tutorial_2\obj\Debug\Ch_8_Tutorial_2.exe
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Tutorial_2\obj\Debug\Ch_8_Tutorial_2.pdb
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Tutorial_2\bin\Debug\Vendor.txt
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Tutorial_2\bin\Debug\Vendor.txt
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Tutorial_2\bin\Debug\Ch_8_Tutorial_2.exe.config
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Tutorial_2\bin\Debug\Ch_8_Tutorial_2.exe
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Tutorial_2\bin\Debug\Ch_8_Tutorial_2.pdb
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Tutorial_2\obj\Debug\Ch_8_Tutorial_2.csproj.AssemblyReference.cache
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Tutorial_2\obj\Debug\Ch_8_Tutorial_2.Properties.Resources.resources
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Tutorial_2\obj\Debug\VendorLookupApp.MainForm.resources
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Tutorial_2\obj\Debug\Ch_8_Tutorial_2.csproj.GenerateResource.cache
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Tutorial_2\obj\Debug\Ch_8_Tutorial_2.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Tutorial_2\obj\Debug\Ch_8_Tutorial_2.exe
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Tutorial_2\obj\Debug\Ch_8_Tutorial_2.pdb

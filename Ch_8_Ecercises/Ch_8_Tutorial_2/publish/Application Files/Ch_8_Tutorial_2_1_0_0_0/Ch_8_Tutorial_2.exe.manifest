@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Ch_8_Tutorial_2.exe" version="1.0.0.0" publicKeyToken="eee058be57194c78" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Ch_8_Tutorial_2" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Ch_8_Tutorial_2.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Ch_8_Tutorial_2.exe" size="10168">
+      <assemblyIdentity name="Ch_8_Tutorial_2" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Y4VFumn8CnzO1W6JHUtXPkfjwNuqbmx25ClIcynijHE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Ch_8_Tutorial_2.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Vendor.txt" size="724">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ylzbiUOgn97Ft636Oj4scnd5OaDkapf+S+Zlh6CqYBM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=JIMMYSPC\jimmy" issuerKeyHash="3a465ceb4b5a63fbdec9006e13ae2b8dc3d36035" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>3jTpCGedn1bYCA+m/Sc491B8SK7YVfHwGtcXZ0tjiEE=</DigestValue></Reference></SignedInfo><SignatureValue>j+ZEjo69+akNLJZNWN+YgNaiGipLk5r7RVT4krc3vICMQSYhuMG6dDG6xQ0htT3E178CNR2uo39foEqk9vIISJkfau8DlfkDHhfeUkncdZg5od+zFn3lsEoJiV9g4exkjqxnS6xSBPjN5FlujK629GJEvB24MMswoq83fm7J0Qc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zb803jGtKyFbqMUXy9x6qRSiM3lc+59XeS7iT+cKEUKqWzYjtGHihmmKS67PDEHfQXEf0RoAYje78Hqmy31i31lMk48PO9iwzt6znaS3bH5ezR0FwbyG1rmhSQPBp+ld2e6KWT1RlejnB0vMYhPFAk0wDGfMYEPeOnuOJd0p3iE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4188634b6717d71af0f155d8ae487c50f73827fda60f08d8569f9d6708e934de" Description="" Url=""><as:assemblyIdentity name="Ch_8_Tutorial_2.exe" version="1.0.0.0" publicKeyToken="eee058be57194c78" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=JIMMYSPC\jimmy</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>DFnZIKyZjjeDqyfP9rQW3ykdS1IbJfD2IuDIoJl+nOY=</DigestValue></Reference></SignedInfo><SignatureValue>xqb6NXV1WPvKVzEz2uBl8dUbv3k4KweCyNh0KQKEwkQN+yXbMpCjUR7wLID8OsS8UqsoMJF4pdIPG8SbUktQh6cszz8WEoz23gVPDwRyZO+rFpjx/kfobl4cSUU2XU0e2ci2BzvGm1OvUqbM+9YLqFD6is6x4qsqtcEpxHXgdWM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zb803jGtKyFbqMUXy9x6qRSiM3lc+59XeS7iT+cKEUKqWzYjtGHihmmKS67PDEHfQXEf0RoAYje78Hqmy31i31lMk48PO9iwzt6znaS3bH5ezR0FwbyG1rmhSQPBp+ld2e6KWT1RlejnB0vMYhPFAk0wDGfMYEPeOnuOJd0p3iE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQF3zPOUPpCa1DaZFegBvOpTANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwASgBJAE0ATQBZAFMAUABDAFwAagBpAG0AbQB5MB4XDTI0MDMxNDE2MzkxMloXDTI1MDMxNDIyMzkxMlowJzElMCMGA1UEAx4cAEoASQBNAE0AWQBTAFAAQwBcAGoAaQBtAG0AeTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAzb803jGtKyFbqMUXy9x6qRSiM3lc+59XeS7iT+cKEUKqWzYjtGHihmmKS67PDEHfQXEf0RoAYje78Hqmy31i31lMk48PO9iwzt6znaS3bH5ezR0FwbyG1rmhSQPBp+ld2e6KWT1RlejnB0vMYhPFAk0wDGfMYEPeOnuOJd0p3iECAwEAATANBgkqhkiG9w0BAQsFAAOBgQBoWGa5xfPKpbiOx1rozhgRB/M4hb5VToCMTxpS6LI9arw/SXI3m4ICrjDTYEMSNG2f4Mr8BjYrweXdbUQtmrRYvypb0A+/A7+PkSWSSYAu6OiJVUco6zCWETWUcM+wZufUYJ1ybHlaTOJoJUnBO6+EtqEgsLi3D5SkbW7YMkgFHg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

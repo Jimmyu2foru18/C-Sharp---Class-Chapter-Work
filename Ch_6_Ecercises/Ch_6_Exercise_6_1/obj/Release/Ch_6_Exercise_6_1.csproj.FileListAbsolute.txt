@@ -1,0 +1,15 @@
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Exercise_6_1\bin\Release\Ch_6_Exercise_6_1.exe.config
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Exercise_6_1\bin\Release\Ch_6_Exercise_6_1.exe
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Exercise_6_1\bin\Release\Ch_6_Exercise_6_1.pdb
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Exercise_6_1\obj\Release\Ch_6_Exercise_6_1.csproj.AssemblyReference.cache
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Exercise_6_1\obj\Release\Ch_6_Exercise_6_1.Icecream.resources
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Exercise_6_1\obj\Release\Ch_6_Exercise_6_1.Properties.Resources.resources
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Exercise_6_1\obj\Release\Ch_6_Exercise_6_1.csproj.GenerateResource.cache
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Exercise_6_1\obj\Release\Ch_6_Exercise_6_1.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Exercise_6_1\obj\Release\Ch_6_Exercise_6_1.exe
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Exercise_6_1\obj\Release\Ch_6_Exercise_6_1.pdb
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Exercise_6_1\bin\Release\Ch_6_Exercise_6_1.exe.manifest
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Exercise_6_1\bin\Release\Ch_6_Exercise_6_1.application
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Exercise_6_1\obj\Release\Ch_6_Exercise_6_1.exe.manifest
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Exercise_6_1\obj\Release\Ch_6_Exercise_6_1.application
+C:\Users\jimmy\Desktop\C# Exercises\Ch_6_Ecercises\Ch_6_Exercise_6_1\bin\Release\Employees.txt

@@ -1,0 +1,10 @@
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Exercise 3_3\bin\Debug\Exercise 3_3.exe.config
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Exercise 3_3\bin\Debug\Exercise 3_3.exe
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Exercise 3_3\bin\Debug\Exercise 3_3.pdb
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Exercise 3_3\obj\Debug\Exercise 3_3.csproj.AssemblyReference.cache
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Exercise 3_3\obj\Debug\Exercise_3_3.Form1.resources
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Exercise 3_3\obj\Debug\Exercise_3_3.Properties.Resources.resources
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Exercise 3_3\obj\Debug\Exercise 3_3.csproj.GenerateResource.cache
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Exercise 3_3\obj\Debug\Exercise 3_3.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Exercise 3_3\obj\Debug\Exercise 3_3.exe
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\Exercise 3_3\obj\Debug\Exercise 3_3.pdb

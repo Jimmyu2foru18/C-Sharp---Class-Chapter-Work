@@ -1,0 +1,14 @@
+C:\Users\jimmy\Desktop\C# Exercises\Ch_5_Exercises\Ch_5_Methods_HR_\bin\Release\Ch_5_Methods_HR_.exe.config
+C:\Users\jimmy\Desktop\C# Exercises\Ch_5_Exercises\Ch_5_Methods_HR_\bin\Release\Ch_5_Methods_HR_.exe
+C:\Users\jimmy\Desktop\C# Exercises\Ch_5_Exercises\Ch_5_Methods_HR_\bin\Release\Ch_5_Methods_HR_.pdb
+C:\Users\jimmy\Desktop\C# Exercises\Ch_5_Exercises\Ch_5_Methods_HR_\obj\Release\Ch_5_Methods_HR_.csproj.AssemblyReference.cache
+C:\Users\jimmy\Desktop\C# Exercises\Ch_5_Exercises\Ch_5_Methods_HR_\obj\Release\Ch_5_Methods_HR_.Ch_5_Heart_Rate.resources
+C:\Users\jimmy\Desktop\C# Exercises\Ch_5_Exercises\Ch_5_Methods_HR_\obj\Release\Ch_5_Methods_HR_.Properties.Resources.resources
+C:\Users\jimmy\Desktop\C# Exercises\Ch_5_Exercises\Ch_5_Methods_HR_\obj\Release\Ch_5_Methods_HR_.csproj.GenerateResource.cache
+C:\Users\jimmy\Desktop\C# Exercises\Ch_5_Exercises\Ch_5_Methods_HR_\obj\Release\Ch_5_Methods_HR_.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\C# Exercises\Ch_5_Exercises\Ch_5_Methods_HR_\obj\Release\Ch_5_Methods_HR_.exe
+C:\Users\jimmy\Desktop\C# Exercises\Ch_5_Exercises\Ch_5_Methods_HR_\obj\Release\Ch_5_Methods_HR_.pdb
+C:\Users\jimmy\Desktop\C# Exercises\Ch_5_Exercises\Ch_5_Methods_HR_\bin\Release\Ch_5_Methods_HR_.exe.manifest
+C:\Users\jimmy\Desktop\C# Exercises\Ch_5_Exercises\Ch_5_Methods_HR_\bin\Release\Ch_5_Methods_HR_.application
+C:\Users\jimmy\Desktop\C# Exercises\Ch_5_Exercises\Ch_5_Methods_HR_\obj\Release\Ch_5_Methods_HR_.exe.manifest
+C:\Users\jimmy\Desktop\C# Exercises\Ch_5_Exercises\Ch_5_Methods_HR_\obj\Release\Ch_5_Methods_HR_.application

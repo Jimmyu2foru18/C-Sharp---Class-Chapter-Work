@@ -1,0 +1,14 @@
+C:\Users\jimmy\Desktop\C# Exercises\Ch_3_Exercises\Ch3_Exercise3_3\Exercise 3_3\bin\Release\Exercise 3_3.exe.config
+C:\Users\jimmy\Desktop\C# Exercises\Ch_3_Exercises\Ch3_Exercise3_3\Exercise 3_3\bin\Release\Exercise 3_3.exe
+C:\Users\jimmy\Desktop\C# Exercises\Ch_3_Exercises\Ch3_Exercise3_3\Exercise 3_3\bin\Release\Exercise 3_3.pdb
+C:\Users\jimmy\Desktop\C# Exercises\Ch_3_Exercises\Ch3_Exercise3_3\Exercise 3_3\obj\Release\Exercise 3_3.csproj.AssemblyReference.cache
+C:\Users\jimmy\Desktop\C# Exercises\Ch_3_Exercises\Ch3_Exercise3_3\Exercise 3_3\obj\Release\Exercise_3_3.Form1.resources
+C:\Users\jimmy\Desktop\C# Exercises\Ch_3_Exercises\Ch3_Exercise3_3\Exercise 3_3\obj\Release\Exercise_3_3.Properties.Resources.resources
+C:\Users\jimmy\Desktop\C# Exercises\Ch_3_Exercises\Ch3_Exercise3_3\Exercise 3_3\obj\Release\Exercise 3_3.csproj.GenerateResource.cache
+C:\Users\jimmy\Desktop\C# Exercises\Ch_3_Exercises\Ch3_Exercise3_3\Exercise 3_3\obj\Release\Exercise 3_3.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\C# Exercises\Ch_3_Exercises\Ch3_Exercise3_3\Exercise 3_3\obj\Release\Exercise 3_3.exe
+C:\Users\jimmy\Desktop\C# Exercises\Ch_3_Exercises\Ch3_Exercise3_3\Exercise 3_3\obj\Release\Exercise 3_3.pdb
+C:\Users\jimmy\Desktop\C# Exercises\Ch_3_Exercises\Ch3_Exercise3_3\Exercise 3_3\bin\Release\Exercise 3_3.exe.manifest
+C:\Users\jimmy\Desktop\C# Exercises\Ch_3_Exercises\Ch3_Exercise3_3\Exercise 3_3\bin\Release\Exercise 3_3.application
+C:\Users\jimmy\Desktop\C# Exercises\Ch_3_Exercises\Ch3_Exercise3_3\Exercise 3_3\obj\Release\Exercise 3_3.exe.manifest
+C:\Users\jimmy\Desktop\C# Exercises\Ch_3_Exercises\Ch3_Exercise3_3\Exercise 3_3\obj\Release\Exercise 3_3.application

@@ -1,0 +1,10 @@
+C:\Users\jimmy\source\repos\Ch1_IntroProgramming\bin\Debug\Ch1_IntroProgramming.exe.config
+C:\Users\jimmy\source\repos\Ch1_IntroProgramming\bin\Debug\Ch1_IntroProgramming.exe
+C:\Users\jimmy\source\repos\Ch1_IntroProgramming\bin\Debug\Ch1_IntroProgramming.pdb
+C:\Users\jimmy\source\repos\Ch1_IntroProgramming\obj\Debug\Ch1_IntroProgramming.csproj.AssemblyReference.cache
+C:\Users\jimmy\source\repos\Ch1_IntroProgramming\obj\Debug\Ch1_IntroProgramming.IceCreamCost.resources
+C:\Users\jimmy\source\repos\Ch1_IntroProgramming\obj\Debug\Ch1_IntroProgramming.Properties.Resources.resources
+C:\Users\jimmy\source\repos\Ch1_IntroProgramming\obj\Debug\Ch1_IntroProgramming.csproj.GenerateResource.cache
+C:\Users\jimmy\source\repos\Ch1_IntroProgramming\obj\Debug\Ch1_IntroProgramming.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\source\repos\Ch1_IntroProgramming\obj\Debug\Ch1_IntroProgramming.exe
+C:\Users\jimmy\source\repos\Ch1_IntroProgramming\obj\Debug\Ch1_IntroProgramming.pdb

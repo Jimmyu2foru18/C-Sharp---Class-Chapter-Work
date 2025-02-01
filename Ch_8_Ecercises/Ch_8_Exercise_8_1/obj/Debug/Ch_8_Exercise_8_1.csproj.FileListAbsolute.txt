@@ -1,0 +1,22 @@
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Exercise_8_1\bin\Debug\Ch_8_Exercise_8_1.exe.config
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Exercise_8_1\bin\Debug\Ch_8_Exercise_8_1.exe
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Exercise_8_1\bin\Debug\Ch_8_Exercise_8_1.pdb
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Exercise_8_1\obj\Debug\Ch_8_Exercise_8_1.csproj.AssemblyReference.cache
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Exercise_8_1\obj\Debug\Ch_8_Exercise_8_1.ProcessOrderForm.resources
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Exercise_8_1\obj\Debug\Ch_8_Exercise_8_1.Properties.Resources.resources
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Exercise_8_1\obj\Debug\Ch_8_Exercise_8_1.csproj.GenerateResource.cache
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Exercise_8_1\obj\Debug\Ch_8_Exercise_8_1.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Exercise_8_1\obj\Debug\Ch_8_Exercise_8_1.exe
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Exercise_8_1\obj\Debug\Ch_8_Exercise_8_1.pdb
+C:\Users\jimmy\Desktop\Visual Studio Workspace C#\redo\Ch_8_Exercise_8_1\bin\Debug\Order.txt
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Exercise_8_1\bin\Debug\Order.txt
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Exercise_8_1\bin\Debug\Ch_8_Exercise_8_1.exe.config
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Exercise_8_1\bin\Debug\Ch_8_Exercise_8_1.exe
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Exercise_8_1\bin\Debug\Ch_8_Exercise_8_1.pdb
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Exercise_8_1\obj\Debug\Ch_8_Exercise_8_1.csproj.AssemblyReference.cache
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Exercise_8_1\obj\Debug\Ch_8_Exercise_8_1.ProcessOrderForm.resources
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Exercise_8_1\obj\Debug\Ch_8_Exercise_8_1.Properties.Resources.resources
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Exercise_8_1\obj\Debug\Ch_8_Exercise_8_1.csproj.GenerateResource.cache
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Exercise_8_1\obj\Debug\Ch_8_Exercise_8_1.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Exercise_8_1\obj\Debug\Ch_8_Exercise_8_1.exe
+C:\Users\jimmy\Desktop\C# Exercises\Ch_8_Ecercises\Ch_8_Exercise_8_1\obj\Debug\Ch_8_Exercise_8_1.pdb

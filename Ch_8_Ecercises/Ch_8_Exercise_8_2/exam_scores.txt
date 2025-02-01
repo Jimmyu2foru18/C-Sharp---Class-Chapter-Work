@@ -1,0 +1,10 @@
+Student1, 85
+Student2, 73
+Student3, 91
+Student4, 78
+Student5, 69
+Student6, 94
+Student7, 82
+Student8, 77
+Student9, 88
+Student10, 72
